@@ -1,5 +1,5 @@
 # One8-Figma
-Designed One8 Website Starting Part of it
+Designed the interaface One8 Website
 
 
 ## Description
