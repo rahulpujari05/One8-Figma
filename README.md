@@ -12,5 +12,5 @@ The One8 website interface design showcases a modern and user-friendly layout. I
 
 - ## Figma Prototype
 
-Explore the interactive prototype of the One8 website 
+Explore the interactive prototype of the One8 website <br>
 https://www.figma.com/proto/nKqlW4s0XvOzrq7ovUuEFd/Untitled?type=design&node-id=2-48&t=HNCs2gw6LMZ9makc-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A48&mode=design****
